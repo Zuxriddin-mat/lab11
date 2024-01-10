@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "750604423766",
+    "firebase_url": "https://my-first-firebase-projec-65313-default-rtdb.firebaseio.com",
+    "project_id": "my-first-firebase-projec-65313",
+    "storage_bucket": "my-first-firebase-projec-65313.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750604423766:android:272242d0cd57b98746e1f7",
+        "android_client_info": {
+          "package_name": "com.example.lab11"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750604423766-6f06tfnfssvcc6umm9s5t3bjfouaj44e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlzbwETkxPCHJzjZ7f6PHe7XSW9fNetrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750604423766-6f06tfnfssvcc6umm9s5t3bjfouaj44e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
